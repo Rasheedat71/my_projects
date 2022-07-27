@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+                color: blue;
+            }
+
+            h2 {
+                text-align: center;
+                border-radius: 10px;
+                border: 1px solid blue;
+                padding: 15px;
+            }
+
+            img {
+                border-radius: 10px;
+                width: 100%;
+            }
+
+            p {
+                font-size: 15px;
+                line-height: 1.5;
+            }
+
+            button{
+                width: 100%;
+                background: blue;
+                color: white;
+                border: none;
+                padding: 15px;
+                font-size: 20px;
+                border-radius: 30px;
+                box-shadow: 0 15px 20px rgba(0, 0, 0,  0.3);
+                margin: 20px 0;
+            }
+
+            footer{
+                text-align: center;
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body>
+<h1>
+    🙂 I FOUND MYSELF
+</h1>
+<h2>
+     Reflection of my past
+</h2>
+<img 
+src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/04/16224837/Reflection-of-light-800x500.jpg"
+alt=""
+width="300">
+<p>
+    I finally thought I became an adult after realizing I have got
+    more work to do pertaining to my future. 
+    As a result, I put my thought into writing and reflected on my 
+    past and present so as to understand how I can get the best 
+    from my future. 
+<br>
+<br>
+<a href="https://www.linkedin.com/pulse/letter-self-reflection-rasheedat-olufunke-yusuf">
+    Read more on Linkedin
+</a>
+    
+</p>
+<button>
+    Follow and connect with me on Linkedin
+</button>
+<footer>
+    Coded by 👩‍💻
+    <a href="https://aosacademy.com/teachers/2-yusuf-rasheedat">
+         Rasheedat Yusuf
+    </a>
+</footer>
+   </body>
+</html>
