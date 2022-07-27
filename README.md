@@ -1,2 +1,1 @@
-# my_projects
-My first training C project
+My first HTML training project
